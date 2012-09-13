@@ -40,16 +40,26 @@ _(In Order of  Familiarity/Fluency)_
   + Best Practices, Documentation & Testing
 + Front-End Code & Development  
   + HTML5 + CSS3 + JS/jQuery
-  + LESS(CSS)    
+  + Wordpress + PHP
+  + LESS(CSS) + SASS(SCSS) + Jekyll
+  + Liquid + Mustache (Templating Languages)
+  + Command Line Ruby + Git Essentials   
   
 ####Software
+*Mac-Based*  
+  
 + Adobe Creative Suite 6:  
   + Photoshop   
   + Illustrator  
   + InDesign  
-  + After Effects
-  
+  + After Effects 
++ Sublime Text 2 + Textmate 
++ Processing 
++  Arduino
++  *Nodebox* (Limited)
++  *X-Code* (Limited)
 
+===
 ## Experience
 
 ###Ely Kahn Creative Design (Independent), San Francisco, CA
